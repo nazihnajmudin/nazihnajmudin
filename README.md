@@ -17,6 +17,14 @@ I enjoy working on **real-world systems**, especially those involving algorithm 
 
 ---
 
+## 🌟 My Portfolio
+
+> **[nazihnajmudin.dev](https://portofolio-coral-phi-83.vercel.app)** – my personal portfolio built with **Next.js**, **Tailwind CSS**, and deployed on **Vercel**.  
+> It showcases my projects, skills, and professional journey as a software engineer and ML enthusiast.  
+> **✨ Give it a visit!**
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
